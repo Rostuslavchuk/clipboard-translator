@@ -1,0 +1,6 @@
+translator
+
+go get github.com/atotto/clipboard
+go get github.com/valyala/fasthttp
+
+
